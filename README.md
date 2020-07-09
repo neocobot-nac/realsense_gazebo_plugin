@@ -6,7 +6,7 @@ This package has been tested on ROS kinetic on ubuntu 16.04 with Gazebo 7.
  
 ## Load in URDF
 
-[Realsense D435 URDF](https://github.com/neocobot-nac/tree/v1.x.x/neo_description/urdf/Sensor/D435)
+[Realsense D435 URDF](https://github.com/neocobot-nac/neocobot_robot/tree/v1.x.x/neo_description/urdf/Sensor/D435)
 
 ## Acknowledgement
 
